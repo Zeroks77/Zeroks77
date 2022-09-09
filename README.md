@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Zeroks77 or Zero. 
-I am 21 and have just finished my education.
+I am 23 and have just finished my education.
 I am currently working with the Microsoft Dynamic Stack, programming in TypeScript and C# to customise the system.
 
 I'm trying to learn as much as I can find and become an excellent programmer who produces value instead of bugs.
